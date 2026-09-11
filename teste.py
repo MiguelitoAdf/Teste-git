@@ -1,6 +1,3 @@
-print ("Ola eu sou a master!")
 
-
- Teste!")
-
+print ("Ola resolvi o comflito de master e teste")
 
